@@ -1,0 +1,16 @@
+{
+  "name": "MyNewNodeProject",
+  "version": "0.1.0",
+  "description": "Node training project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Library",
+    "Node",
+    "Training"
+  ],
+  "author": "Guenter Grossberger",
+  "license": "Apache"
+}
