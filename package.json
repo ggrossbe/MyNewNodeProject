@@ -12,5 +12,9 @@
     "Training"
   ],
   "author": "Guenter Grossberger",
-  "license": "Apache 2.0"
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "lodash": "^3.5.0",
+    "mocha": "^2.2.1"
+  }
 }
